@@ -1,5 +1,5 @@
 # Demo Repo
-Changing this line to produce conflicts. Modified by Galina.
+Grüße von Galina!
 
 ## Lines for PR practice
 Line 1
