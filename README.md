@@ -1,5 +1,5 @@
 # Demo Repo
-Welcome! Hier spricht Edgar Wallace!
+Grüße von Galina!
 
 ## Lines for PR practice
 Line 1
