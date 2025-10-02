@@ -1,5 +1,5 @@
 # Demo Repo
-Welcome!
+Grüße von Anna Bea. Ich wünsche euch einen schönen Tag.
 
 ## Lines for PR practice
 Line 1
