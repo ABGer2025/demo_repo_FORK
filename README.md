@@ -1,4 +1,5 @@
 # Demo Repo
+Changing this line to produce conflicts. Modified by Galina.
 Grüße von Anna Bea. Ich wünsche euch einen schönen Tag.
 
 ## Lines for PR practice
